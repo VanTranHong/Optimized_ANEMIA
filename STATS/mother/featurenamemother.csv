@@ -1,0 +1,79 @@
+Index,Variable name,meaning of nominal data,Meaning of 1,Reference point
+1,All_Population_Count_2015,,,
+2,Annual_Precipitation_2015,,,
+3,Day_Land_Surface_Temp_2015,,,
+4,Diurnal_Temperature_Range_2015,,,
+5,Enhanced_Vegetation_Index_2015,,,
+6,Global_Human_Footprint,,,
+7,Gross_Cell_Production,,,
+8,Growing_Season_Length,,,
+9,Irrigation,,,
+10,ITN_Coverage_2015,,,
+11,Land_Surface_Temperature_2015,,,
+12,Malaria_Prevalence_2015,,,
+13,Mean_Temperature_2015,,,
+14,Nightlights_Composite,,,
+15,Proximity_to_Water,,,
+16,V025,Type of place of residence,1 rural,0 urban
+17,HannahToilet,ToiletRecode,1 improved,0 unimproved
+18,HIV,HIV status,1 yes,0 no
+19,HouseholdAmenities,AnyAmenities,1 yes,0 no
+20,TransportationAccess,AnyTransportation,1 yes,0 no
+21,HannahFloor,FloorNew,1 Natural,0 Built
+22,V151,Sex of household head,1 female,0 male
+23,V404,Currently breastfeeding,1 Yes,0  No
+24,V213,Currently pregnant,1 Yes,0  No or unsure
+25,V216,Menstruated in last six weeks,1 Yes,0 No
+26,HannahMaritalStatus,MaritalStatusRecode,1 Married or Living with Partner,"0 Never Married, Widowed, Divorced, No longer living together"
+27,MaternalIronRecode,MaternalIronRecode,1 yes,0 no or don't know
+28,WaterTime_1.0,WaterTimeRecode,1 <30 min,0 on premises
+29,WaterTime_2.0,,2 >30 min,
+30,MaternalOccRecode_1.0,MaternalOccRecode,1 agric ulture,"0 office, services, sales, other labor"
+31,MaternalOccRecode_2.0,,2 none,
+32,HusbandOccNew_1.0,HusbandOccRecode,1 agric ulture,"0 office, services, sales, other labor"
+33,HusbandOccNew_2.0,,2 none,
+34,HannahReligion_1.0,ReligionNew,1 orthodox,0 other
+35,HannahReligion_2.0,,2 protestant,
+36,HannahReligion_3.0,,3 muslim,
+37,HannahHouseholdNum_1.0,HouseholdNumRecode,1 = 5-9,0 = 1-4
+38,HannahHouseholdNum_2.0,,2 = 10+,
+39,V158_1.0,Frequency of watching television,1 =  Less than once a week,0 not at all
+40,V158_2.0,,2 = At least once a week,
+41,V157_1.0,Frequency of reading newspaper or magazine,1 =  Less than once a week,0 not at all
+42,V157_2.0,,2 = At least once a week,
+43,V159_1.0,Frequency of watching television,1 =  Less than once a week,0 not at all
+44,V159_2.0,,2 = At least once a week,
+45,V190_1.0,Wealth index combined,1 = Poorest,0 = richest
+46,V190_2.0,,2 = Poorer,
+47,V190_3.0,,3 = Middle,
+48,V190_4.0,,4 = Richer,
+49,HannahRecentBirths_1.0,Births5YrRecode,1 = 1-2,0 = 0
+50,HannahRecentBirths_2.0,,2= 3+,
+51,HannahAllChildrenBorn_1.0,NumberEverBornRecode,1 = 1-3,0 = 0
+52,HannahAllChildrenBorn_2.0,,2= 4+,
+53,HannahContraception_1.0,ContraceptionNew,some contraception method,
+54,HannahContraception_2.0,,somecontraception method,
+55,HannahContraception_3.0,,some contraception method,
+56,HannahBMI_1.0,BMIRecode,1= 18.5-24.9,0 =<18.5
+57,HannahBMI_2.0,,2 = >25,
+58,V106_1.0,education,1 = Primary,0 = No education
+59,V106_2.0,,2 = Secondary,
+60,V106_3.0,,3 = Higher,
+61,HannahWater_1.0,,1.00 = piped,.00 = unimproved
+62,HannahWater_2.0,,2.00 = other improved,
+63,V013_1.0,Age in 5-year groups,1 = 15-19,0 = 45-49
+64,V013_2.0,,2 = 20-24,
+65,V013_3.0,,3 = 25-29,
+66,V013_4.0,,4 = 30-34,
+67,V013_5.0,,5 = 35-39,
+68,V013_6.0,,6 = 40-44,
+69,V024_1.0,Region,1 tigray,
+70,V024_2.0,,afar,0:dire wara
+71,V024_3.0,,amhara,
+72,V024_4.0,,oromia,
+73,V024_5.0,,somali,
+74,V024_6.0,,benishangul,
+75,V024_7.0,,SNNPR,
+76,V024_8.0,,Gambela,
+77,V024_9.0,,Harari,
+78,V024_10.0,,Addis Adaba,
