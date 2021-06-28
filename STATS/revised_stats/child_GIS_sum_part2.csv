@@ -1,0 +1,231 @@
+﻿Feature,Feature Selection,Probability
+MaternalEducation: Primary,MRMR,0
+MaternalEducation: Secondary,MRMR,0
+MaternalEducation: Highschool+,MRMR,0
+PaternalEducation: Primary,MRMR,0
+PaternalEducation: Secondary,MRMR,0
+PaternalEducation: Highschool+,MRMR,0
+MaternalOccupation: Agriculture,MRMR,0
+MaternalOccupation:NotWorking,MRMR,0.12
+PaternalOccupation: Agriculture,MRMR,0
+PatrnalOccupation: NotWorking,MRMR,0
+Watersource:Piped,MRMR,0
+Watersource:Improved,MRMR,0
+TravelTimeToWater:<30min,MRMR,0
+TravelTimeToWater:>30min,MRMR,0
+Religion: Orthordox,MRMR,0
+Religion: Protestant,MRMR,0
+Religion: Muslim,MRMR,0.36
+FamilySize: 5-9,MRMR,0
+FamilySize: 10+,MRMR,0
+ListeningRadio: Infrequent,MRMR,0
+ListeningRadio: Sometimes,MRMR,0
+WatchingTV: Infrequent,MRMR,0
+WatchingTV: Sometimes,MRMR,0
+ReadingNews: Infrequent,MRMR,0
+ReadingNews: Sometimes,MRMR,0
+WealthIndex: Poorest,MRMR,0.4
+WealthIndex: Poorer,MRMR,0
+WealthIndex: Middle,MRMR,0
+WealthIndex: Richer,MRMR,0
+ChildBirthSize: Average,MRMR,0
+ChildBirthSize: Small,MRMR,0.3
+ChildBirthSize: Unknown,MRMR,0.04
+ChildHeight: 50-75cm,MRMR,0
+ChildHeight: 75-100cm,MRMR,0
+ChildWeight: 6-9.9kg,MRMR,1
+ChildWeight: 10-14.9kg,MRMR,0
+ChildWeight: 15-19.9kg,MRMR,0.48
+ChildWeight: 1-5.9kg,MRMR,0.42
+BirthOrder: 3-5,MRMR,0
+BirthOrder: 6+,MRMR,0
+MaternalAge: 15-19,MRMR,0.12
+MaternalAge: 20-24,MRMR,0
+MaternalAge: 25-29,MRMR,0
+MaternalAge: 30-34,MRMR,0
+MaternalAge: 35-39,MRMR,0.02
+MaternalAge: 40-44,MRMR,0.86
+MaternalEducation: Primary,CFS,0
+MaternalEducation: Secondary,CFS,0
+MaternalEducation: Highschool+,CFS,0.02
+PaternalEducation: Primary,CFS,0
+PaternalEducation: Secondary,CFS,0
+PaternalEducation: Highschool+,CFS,0
+MaternalOccupation: Agriculture,CFS,0
+MaternalOccupation:NotWorking,CFS,1
+PaternalOccupation: Agriculture,CFS,0
+PatrnalOccupation: NotWorking,CFS,0
+Watersource:Piped,CFS,0
+Watersource:Improved,CFS,0
+TravelTimeToWater:<30min,CFS,0
+TravelTimeToWater:>30min,CFS,0
+Religion: Orthordox,CFS,1
+Religion: Protestant,CFS,0
+Religion: Muslim,CFS,1
+FamilySize: 5-9,CFS,0
+FamilySize: 10+,CFS,0
+ListeningRadio: Infrequent,CFS,0
+ListeningRadio: Sometimes,CFS,0
+WatchingTV: Infrequent,CFS,0
+WatchingTV: Sometimes,CFS,0.06
+ReadingNews: Infrequent,CFS,0
+ReadingNews: Sometimes,CFS,0
+WealthIndex: Poorest,CFS,1
+WealthIndex: Poorer,CFS,0
+WealthIndex: Middle,CFS,0
+WealthIndex: Richer,CFS,0
+ChildBirthSize: Average,CFS,0
+ChildBirthSize: Small,CFS,0.86
+ChildBirthSize: Unknown,CFS,0
+ChildHeight: 50-75cm,CFS,1
+ChildHeight: 75-100cm,CFS,0
+ChildWeight: 6-9.9kg,CFS,1
+ChildWeight: 10-14.9kg,CFS,0
+ChildWeight: 15-19.9kg,CFS,1
+ChildWeight: 1-5.9kg,CFS,0.08
+BirthOrder: 3-5,CFS,0
+BirthOrder: 6+,CFS,0
+MaternalAge: 15-19,CFS,0.34
+MaternalAge: 20-24,CFS,0
+MaternalAge: 25-29,CFS,0
+MaternalAge: 30-34,CFS,0
+MaternalAge: 35-39,CFS,0
+MaternalAge: 40-44,CFS,0
+MaternalEducation: Primary,IG-20,0.1
+MaternalEducation: Secondary,IG-20,0.06
+MaternalEducation: Highschool+,IG-20,0.08
+PaternalEducation: Primary,IG-20,0.02
+PaternalEducation: Secondary,IG-20,0.06
+PaternalEducation: Highschool+,IG-20,0.02
+MaternalOccupation: Agriculture,IG-20,0.16
+MaternalOccupation:NotWorking,IG-20,0.52
+PaternalOccupation: Agriculture,IG-20,0.06
+PatrnalOccupation: NotWorking,IG-20,0.1
+Watersource:Piped,IG-20,0.06
+Watersource:Improved,IG-20,0.02
+TravelTimeToWater:<30min,IG-20,0
+TravelTimeToWater:>30min,IG-20,0.14
+Religion: Orthordox,IG-20,0.9
+Religion: Protestant,IG-20,0.08
+Religion: Muslim,IG-20,0.96
+FamilySize: 5-9,IG-20,0.04
+FamilySize: 10+,IG-20,0.08
+ListeningRadio: Infrequent,IG-20,0.06
+ListeningRadio: Sometimes,IG-20,0.06
+WatchingTV: Infrequent,IG-20,0.06
+WatchingTV: Sometimes,IG-20,0.18
+ReadingNews: Infrequent,IG-20,0.16
+ReadingNews: Sometimes,IG-20,0.06
+WealthIndex: Poorest,IG-20,0.64
+WealthIndex: Poorer,IG-20,0.08
+WealthIndex: Middle,IG-20,0.08
+WealthIndex: Richer,IG-20,0.2
+ChildBirthSize: Average,IG-20,0.02
+ChildBirthSize: Small,IG-20,0.08
+ChildBirthSize: Unknown,IG-20,0.02
+ChildHeight: 50-75cm,IG-20,0.84
+ChildHeight: 75-100cm,IG-20,0.02
+ChildWeight: 6-9.9kg,IG-20,1
+ChildWeight: 10-14.9kg,IG-20,0.52
+ChildWeight: 15-19.9kg,IG-20,0.82
+ChildWeight: 1-5.9kg,IG-20,0.08
+BirthOrder: 3-5,IG-20,0.02
+BirthOrder: 6+,IG-20,0.04
+MaternalAge: 15-19,IG-20,0.08
+MaternalAge: 20-24,IG-20,0.04
+MaternalAge: 25-29,IG-20,0.1
+MaternalAge: 30-34,IG-20,0.04
+MaternalAge: 35-39,IG-20,0.08
+MaternalAge: 40-44,IG-20,0.04
+MaternalEducation: Primary,IG-40,0.3
+MaternalEducation: Secondary,IG-40,0.32
+MaternalEducation: Highschool+,IG-40,0.24
+PaternalEducation: Primary,IG-40,0.2
+PaternalEducation: Secondary,IG-40,0.28
+PaternalEducation: Highschool+,IG-40,0.2
+MaternalOccupation: Agriculture,IG-40,0.52
+MaternalOccupation:NotWorking,IG-40,0.76
+PaternalOccupation: Agriculture,IG-40,0.22
+PatrnalOccupation: NotWorking,IG-40,0.36
+Watersource:Piped,IG-40,0.26
+Watersource:Improved,IG-40,0.24
+TravelTimeToWater:<30min,IG-40,0.26
+TravelTimeToWater:>30min,IG-40,0.42
+Religion: Orthordox,IG-40,0.98
+Religion: Protestant,IG-40,0.24
+Religion: Muslim,IG-40,1
+FamilySize: 5-9,IG-40,0.3
+FamilySize: 10+,IG-40,0.22
+ListeningRadio: Infrequent,IG-40,0.22
+ListeningRadio: Sometimes,IG-40,0.4
+WatchingTV: Infrequent,IG-40,0.3
+WatchingTV: Sometimes,IG-40,0.3
+ReadingNews: Infrequent,IG-40,0.42
+ReadingNews: Sometimes,IG-40,0.3
+WealthIndex: Poorest,IG-40,0.94
+WealthIndex: Poorer,IG-40,0.16
+WealthIndex: Middle,IG-40,0.24
+WealthIndex: Richer,IG-40,0.38
+ChildBirthSize: Average,IG-40,0.16
+ChildBirthSize: Small,IG-40,0.24
+ChildBirthSize: Unknown,IG-40,0.24
+ChildHeight: 50-75cm,IG-40,0.96
+ChildHeight: 75-100cm,IG-40,0.22
+ChildWeight: 6-9.9kg,IG-40,1
+ChildWeight: 10-14.9kg,IG-40,0.86
+ChildWeight: 15-19.9kg,IG-40,0.96
+ChildWeight: 1-5.9kg,IG-40,0.28
+BirthOrder: 3-5,IG-40,0.16
+BirthOrder: 6+,IG-40,0.28
+MaternalAge: 15-19,IG-40,0.3
+MaternalAge: 20-24,IG-40,0.24
+MaternalAge: 25-29,IG-40,0.28
+MaternalAge: 30-34,IG-40,0.2
+MaternalAge: 35-39,IG-40,0.22
+MaternalAge: 40-44,IG-40,0.32
+MaternalEducation: Primary,Average,0.1
+MaternalEducation: Secondary,Average,0.095
+MaternalEducation: Highschool+,Average,0.085
+PaternalEducation: Primary,Average,0.055
+PaternalEducation: Secondary,Average,0.085
+PaternalEducation: Highschool+,Average,0.055
+MaternalOccupation: Agriculture,Average,0.17
+MaternalOccupation:NotWorking,Average,0.6
+PaternalOccupation: Agriculture,Average,0.07
+PatrnalOccupation: NotWorking,Average,0.115
+Watersource:Piped,Average,0.08
+Watersource:Improved,Average,0.065
+TravelTimeToWater:<30min,Average,0.065
+TravelTimeToWater:>30min,Average,0.14
+Religion: Orthordox,Average,0.72
+Religion: Protestant,Average,0.08
+Religion: Muslim,Average,0.83
+FamilySize: 5-9,Average,0.085
+FamilySize: 10+,Average,0.075
+ListeningRadio: Infrequent,Average,0.07
+ListeningRadio: Sometimes,Average,0.115
+WatchingTV: Infrequent,Average,0.09
+WatchingTV: Sometimes,Average,0.135
+ReadingNews: Infrequent,Average,0.145
+ReadingNews: Sometimes,Average,0.09
+WealthIndex: Poorest,Average,0.745
+WealthIndex: Poorer,Average,0.06
+WealthIndex: Middle,Average,0.08
+WealthIndex: Richer,Average,0.145
+ChildBirthSize: Average,Average,0.045
+ChildBirthSize: Small,Average,0.37
+ChildBirthSize: Unknown,Average,0.075
+ChildHeight: 50-75cm,Average,0.7
+ChildHeight: 75-100cm,Average,0.06
+ChildWeight: 6-9.9kg,Average,1
+ChildWeight: 10-14.9kg,Average,0.345
+ChildWeight: 15-19.9kg,Average,0.815
+ChildWeight: 1-5.9kg,Average,0.215
+BirthOrder: 3-5,Average,0.045
+BirthOrder: 6+,Average,0.08
+MaternalAge: 15-19,Average,0.21
+MaternalAge: 20-24,Average,0.07
+MaternalAge: 25-29,Average,0.095
+MaternalAge: 30-34,Average,0.06
+MaternalAge: 35-39,Average,0.08
+MaternalAge: 40-44,Average,0.305

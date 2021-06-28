@@ -1,0 +1,466 @@
+﻿Feature,Feature Selection,Probability
+PopulationSize,MRMR,0
+AnnualPrecipitation,MRMR,0
+DiurnalSurfaceTemperature,MRMR,0
+DiurnalTemperatureRange,MRMR,0
+VegetationIndex,MRMR,0
+HumanFootprint,MRMR,0
+GrossCellProduction,MRMR,0
+GrowthSeasonLength,MRMR,0
+Irrigation,MRMR,0
+ITNCoverage,MRMR,1
+LandSurfaceTemperature,MRMR,0
+MalariaPrevalence,MRMR,0
+MeanTemperature,MRMR,0
+NightlightsComposite,MRMR,0
+ProximityToWater,MRMR,0
+Residence:Rural,MRMR,0
+ToiletType: Improved,MRMR,0
+HIV Status: Positive,MRMR,0.4
+HouseholdAmenities: Yes,MRMR,0
+Transportation,MRMR,0
+FloorType: Dirt,MRMR,0
+HouseholdHead: Female,MRMR,0
+Breastfeeding,MRMR,0
+Diet: Starch/Legume,MRMR,0
+Diet: Meat/Fish,MRMR,0
+Diet: Fruit,MRMR,0
+Diet: Diary,MRMR,0
+Diet: Vegetables,MRMR,0
+MaternalAnemia,MRMR,1
+ChildGender: Female,MRMR,0
+ChildIntestinalParasoteDrugs,MRMR,0
+IronSupplementDuringPregnancy,MRMR,0
+ChildAge: 6-11months,MRMR,0.02
+ChildAge: 12-23months,MRMR,0
+ChildAge: 24-35months,MRMR,0
+ChildAge: 36-47months,MRMR,0
+ChildAge: 0-5months,MRMR,0.24
+Region: Tigray,MRMR,0
+Region: Afar,MRMR,0
+Region: Amhara,MRMR,0
+Region: Oromia,MRMR,0
+Region: Somali,MRMR,0
+Region: Benishangul,MRMR,0
+Region: SNNPR,MRMR,0
+Region: Gambela,MRMR,0
+Region: Harari,MRMR,0
+Region: AddisAdaba,MRMR,0
+MaternalEducation: Primary,MRMR,0
+MaternalEducation: Secondary,MRMR,0
+MaternalEducation: Highschool+,MRMR,0
+PaternalEducation: Primary,MRMR,0
+PaternalEducation: Secondary,MRMR,0
+PaternalEducation: Highschool+,MRMR,0
+MaternalOccupation: Agriculture,MRMR,0
+MaternalOccupation:NotWorking,MRMR,0.12
+PaternalOccupation: Agriculture,MRMR,0
+PatrnalOccupation: NotWorking,MRMR,0
+Watersource:Piped,MRMR,0
+Watersource:Improved,MRMR,0
+TravelTimeToWater:<30min,MRMR,0
+TravelTimeToWater:>30min,MRMR,0
+Religion: Orthordox,MRMR,0
+Religion: Protestant,MRMR,0
+Religion: Muslim,MRMR,0.36
+FamilySize: 5-9,MRMR,0
+FamilySize: 10+,MRMR,0
+ListeningRadio: Infrequent,MRMR,0
+ListeningRadio: Sometimes,MRMR,0
+WatchingTV: Infrequent,MRMR,0
+WatchingTV: Sometimes,MRMR,0
+ReadingNews: Infrequent,MRMR,0
+ReadingNews: Sometimes,MRMR,0
+WealthIndex: Poorest,MRMR,0.4
+WealthIndex: Poorer,MRMR,0
+WealthIndex: Middle,MRMR,0
+WealthIndex: Richer,MRMR,0
+ChildBirthSize: Average,MRMR,0
+ChildBirthSize: Small,MRMR,0.3
+ChildBirthSize: Unknown,MRMR,0.04
+ChildHeight: 50-75cm,MRMR,0
+ChildHeight: 75-100cm,MRMR,0
+ChildWeight: 6-9.9kg,MRMR,1
+ChildWeight: 10-14.9kg,MRMR,0
+ChildWeight: 15-19.9kg,MRMR,0.48
+ChildWeight: 1-5.9kg,MRMR,0.42
+BirthOrder: 3-5,MRMR,0
+BirthOrder: 6+,MRMR,0
+MaternalAge: 15-19,MRMR,0.12
+MaternalAge: 20-24,MRMR,0
+MaternalAge: 25-29,MRMR,0
+MaternalAge: 30-34,MRMR,0
+MaternalAge: 35-39,MRMR,0.02
+MaternalAge: 40-44,MRMR,0.86
+PopulationSize,CFS,0
+AnnualPrecipitation,CFS,1
+DiurnalSurfaceTemperature,CFS,0
+DiurnalTemperatureRange,CFS,0
+VegetationIndex,CFS,0
+HumanFootprint,CFS,0
+GrossCellProduction,CFS,0
+GrowthSeasonLength,CFS,0
+Irrigation,CFS,0.02
+ITNCoverage,CFS,1
+LandSurfaceTemperature,CFS,0.02
+MalariaPrevalence,CFS,0
+MeanTemperature,CFS,0
+NightlightsComposite,CFS,0.02
+ProximityToWater,CFS,0
+Residence:Rural,CFS,0
+ToiletType: Improved,CFS,0
+HIV Status: Positive,CFS,0
+HouseholdAmenities: Yes,CFS,0.2
+Transportation,CFS,0
+FloorType: Dirt,CFS,0
+HouseholdHead: Female,CFS,0
+Breastfeeding,CFS,0
+Diet: Starch/Legume,CFS,0
+Diet: Meat/Fish,CFS,0
+Diet: Fruit,CFS,0
+Diet: Diary,CFS,0
+Diet: Vegetables,CFS,0
+MaternalAnemia,CFS,1
+ChildGender: Female,CFS,0
+ChildIntestinalParasoteDrugs,CFS,0
+IronSupplementDuringPregnancy,CFS,0
+ChildAge: 6-11months,CFS,1
+ChildAge: 12-23months,CFS,1
+ChildAge: 24-35months,CFS,0
+ChildAge: 36-47months,CFS,0
+ChildAge: 0-5months,CFS,0
+Region: Tigray,CFS,0
+Region: Afar,CFS,0.38
+Region: Amhara,CFS,1
+Region: Oromia,CFS,0
+Region: Somali,CFS,1
+Region: Benishangul,CFS,1
+Region: SNNPR,CFS,0
+Region: Gambela,CFS,0
+Region: Harari,CFS,0
+Region: AddisAdaba,CFS,0
+MaternalEducation: Primary,CFS,0
+MaternalEducation: Secondary,CFS,0
+MaternalEducation: Highschool+,CFS,0.02
+PaternalEducation: Primary,CFS,0
+PaternalEducation: Secondary,CFS,0
+PaternalEducation: Highschool+,CFS,0
+MaternalOccupation: Agriculture,CFS,0
+MaternalOccupation:NotWorking,CFS,1
+PaternalOccupation: Agriculture,CFS,0
+PatrnalOccupation: NotWorking,CFS,0
+Watersource:Piped,CFS,0
+Watersource:Improved,CFS,0
+TravelTimeToWater:<30min,CFS,0
+TravelTimeToWater:>30min,CFS,0
+Religion: Orthordox,CFS,1
+Religion: Protestant,CFS,0
+Religion: Muslim,CFS,1
+FamilySize: 5-9,CFS,0
+FamilySize: 10+,CFS,0
+ListeningRadio: Infrequent,CFS,0
+ListeningRadio: Sometimes,CFS,0
+WatchingTV: Infrequent,CFS,0
+WatchingTV: Sometimes,CFS,0.06
+ReadingNews: Infrequent,CFS,0
+ReadingNews: Sometimes,CFS,0
+WealthIndex: Poorest,CFS,1
+WealthIndex: Poorer,CFS,0
+WealthIndex: Middle,CFS,0
+WealthIndex: Richer,CFS,0
+ChildBirthSize: Average,CFS,0
+ChildBirthSize: Small,CFS,0.86
+ChildBirthSize: Unknown,CFS,0
+ChildHeight: 50-75cm,CFS,1
+ChildHeight: 75-100cm,CFS,0
+ChildWeight: 6-9.9kg,CFS,1
+ChildWeight: 10-14.9kg,CFS,0
+ChildWeight: 15-19.9kg,CFS,1
+ChildWeight: 1-5.9kg,CFS,0.08
+BirthOrder: 3-5,CFS,0
+BirthOrder: 6+,CFS,0
+MaternalAge: 15-19,CFS,0.34
+MaternalAge: 20-24,CFS,0
+MaternalAge: 25-29,CFS,0
+MaternalAge: 30-34,CFS,0
+MaternalAge: 35-39,CFS,0
+MaternalAge: 40-44,CFS,0
+PopulationSize,IG-20,0.08
+AnnualPrecipitation,IG-20,0.96
+DiurnalSurfaceTemperature,IG-20,0.46
+DiurnalTemperatureRange,IG-20,0.16
+VegetationIndex,IG-20,0.3
+HumanFootprint,IG-20,0.16
+GrossCellProduction,IG-20,0.26
+GrowthSeasonLength,IG-20,0.64
+Irrigation,IG-20,0.06
+ITNCoverage,IG-20,1
+LandSurfaceTemperature,IG-20,0.78
+MalariaPrevalence,IG-20,0.2
+MeanTemperature,IG-20,0.54
+NightlightsComposite,IG-20,0.16
+ProximityToWater,IG-20,0.32
+Residence:Rural,IG-20,0.12
+ToiletType: Improved,IG-20,0.04
+HIV Status: Positive,IG-20,0.04
+HouseholdAmenities: Yes,IG-20,0.08
+Transportation,IG-20,0.12
+FloorType: Dirt,IG-20,0.04
+HouseholdHead: Female,IG-20,0.08
+Breastfeeding,IG-20,0.06
+Diet: Starch/Legume,IG-20,0.04
+Diet: Meat/Fish,IG-20,0.08
+Diet: Fruit,IG-20,0.08
+Diet: Diary,IG-20,0.04
+Diet: Vegetables,IG-20,0.08
+MaternalAnemia,IG-20,0.72
+ChildGender: Female,IG-20,0.06
+ChildIntestinalParasoteDrugs,IG-20,0.06
+IronSupplementDuringPregnancy,IG-20,0.04
+ChildAge: 6-11months,IG-20,0.38
+ChildAge: 12-23months,IG-20,0.5
+ChildAge: 24-35months,IG-20,0.02
+ChildAge: 36-47months,IG-20,0.16
+ChildAge: 0-5months,IG-20,0
+Region: Tigray,IG-20,0.1
+Region: Afar,IG-20,0.22
+Region: Amhara,IG-20,0.4
+Region: Oromia,IG-20,0.08
+Region: Somali,IG-20,0.92
+Region: Benishangul,IG-20,0.22
+Region: SNNPR,IG-20,0.06
+Region: Gambela,IG-20,0.06
+Region: Harari,IG-20,0.08
+Region: AddisAdaba,IG-20,0.06
+MaternalEducation: Primary,IG-20,0.1
+MaternalEducation: Secondary,IG-20,0.06
+MaternalEducation: Highschool+,IG-20,0.08
+PaternalEducation: Primary,IG-20,0.02
+PaternalEducation: Secondary,IG-20,0.06
+PaternalEducation: Highschool+,IG-20,0.02
+MaternalOccupation: Agriculture,IG-20,0.16
+MaternalOccupation:NotWorking,IG-20,0.52
+PaternalOccupation: Agriculture,IG-20,0.06
+PatrnalOccupation: NotWorking,IG-20,0.1
+Watersource:Piped,IG-20,0.06
+Watersource:Improved,IG-20,0.02
+TravelTimeToWater:<30min,IG-20,0
+TravelTimeToWater:>30min,IG-20,0.14
+Religion: Orthordox,IG-20,0.9
+Religion: Protestant,IG-20,0.08
+Religion: Muslim,IG-20,0.96
+FamilySize: 5-9,IG-20,0.04
+FamilySize: 10+,IG-20,0.08
+ListeningRadio: Infrequent,IG-20,0.06
+ListeningRadio: Sometimes,IG-20,0.06
+WatchingTV: Infrequent,IG-20,0.06
+WatchingTV: Sometimes,IG-20,0.18
+ReadingNews: Infrequent,IG-20,0.16
+ReadingNews: Sometimes,IG-20,0.06
+WealthIndex: Poorest,IG-20,0.64
+WealthIndex: Poorer,IG-20,0.08
+WealthIndex: Middle,IG-20,0.08
+WealthIndex: Richer,IG-20,0.2
+ChildBirthSize: Average,IG-20,0.02
+ChildBirthSize: Small,IG-20,0.08
+ChildBirthSize: Unknown,IG-20,0.02
+ChildHeight: 50-75cm,IG-20,0.84
+ChildHeight: 75-100cm,IG-20,0.02
+ChildWeight: 6-9.9kg,IG-20,1
+ChildWeight: 10-14.9kg,IG-20,0.52
+ChildWeight: 15-19.9kg,IG-20,0.82
+ChildWeight: 1-5.9kg,IG-20,0.08
+BirthOrder: 3-5,IG-20,0.02
+BirthOrder: 6+,IG-20,0.04
+MaternalAge: 15-19,IG-20,0.08
+MaternalAge: 20-24,IG-20,0.04
+MaternalAge: 25-29,IG-20,0.1
+MaternalAge: 30-34,IG-20,0.04
+MaternalAge: 35-39,IG-20,0.08
+MaternalAge: 40-44,IG-20,0.04
+PopulationSize,IG-40,0.3
+AnnualPrecipitation,IG-40,0.98
+DiurnalSurfaceTemperature,IG-40,0.82
+DiurnalTemperatureRange,IG-40,0.38
+VegetationIndex,IG-40,0.76
+HumanFootprint,IG-40,0.44
+GrossCellProduction,IG-40,0.56
+GrowthSeasonLength,IG-40,0.94
+Irrigation,IG-40,0.38
+ITNCoverage,IG-40,1
+LandSurfaceTemperature,IG-40,0.94
+MalariaPrevalence,IG-40,0.7
+MeanTemperature,IG-40,0.82
+NightlightsComposite,IG-40,0.34
+ProximityToWater,IG-40,0.64
+Residence:Rural,IG-40,0.36
+ToiletType: Improved,IG-40,0.18
+HIV Status: Positive,IG-40,0.2
+HouseholdAmenities: Yes,IG-40,0.48
+Transportation,IG-40,0.36
+FloorType: Dirt,IG-40,0.28
+HouseholdHead: Female,IG-40,0.32
+Breastfeeding,IG-40,0.3
+Diet: Starch/Legume,IG-40,0.22
+Diet: Meat/Fish,IG-40,0.24
+Diet: Fruit,IG-40,0.26
+Diet: Diary,IG-40,0.16
+Diet: Vegetables,IG-40,0.28
+MaternalAnemia,IG-40,0.92
+ChildGender: Female,IG-40,0.16
+ChildIntestinalParasoteDrugs,IG-40,0.2
+IronSupplementDuringPregnancy,IG-40,0.32
+ChildAge: 6-11months,IG-40,0.76
+ChildAge: 12-23months,IG-40,0.84
+ChildAge: 24-35months,IG-40,0.1
+ChildAge: 36-47months,IG-40,0.44
+ChildAge: 0-5months,IG-40,0.12
+Region: Tigray,IG-40,0.28
+Region: Afar,IG-40,0.46
+Region: Amhara,IG-40,0.74
+Region: Oromia,IG-40,0.26
+Region: Somali,IG-40,1
+Region: Benishangul,IG-40,0.7
+Region: SNNPR,IG-40,0.32
+Region: Gambela,IG-40,0.22
+Region: Harari,IG-40,0.26
+Region: AddisAdaba,IG-40,0.36
+MaternalEducation: Primary,IG-40,0.3
+MaternalEducation: Secondary,IG-40,0.32
+MaternalEducation: Highschool+,IG-40,0.24
+PaternalEducation: Primary,IG-40,0.2
+PaternalEducation: Secondary,IG-40,0.28
+PaternalEducation: Highschool+,IG-40,0.2
+MaternalOccupation: Agriculture,IG-40,0.52
+MaternalOccupation:NotWorking,IG-40,0.76
+PaternalOccupation: Agriculture,IG-40,0.22
+PatrnalOccupation: NotWorking,IG-40,0.36
+Watersource:Piped,IG-40,0.26
+Watersource:Improved,IG-40,0.24
+TravelTimeToWater:<30min,IG-40,0.26
+TravelTimeToWater:>30min,IG-40,0.42
+Religion: Orthordox,IG-40,0.98
+Religion: Protestant,IG-40,0.24
+Religion: Muslim,IG-40,1
+FamilySize: 5-9,IG-40,0.3
+FamilySize: 10+,IG-40,0.22
+ListeningRadio: Infrequent,IG-40,0.22
+ListeningRadio: Sometimes,IG-40,0.4
+WatchingTV: Infrequent,IG-40,0.3
+WatchingTV: Sometimes,IG-40,0.3
+ReadingNews: Infrequent,IG-40,0.42
+ReadingNews: Sometimes,IG-40,0.3
+WealthIndex: Poorest,IG-40,0.94
+WealthIndex: Poorer,IG-40,0.16
+WealthIndex: Middle,IG-40,0.24
+WealthIndex: Richer,IG-40,0.38
+ChildBirthSize: Average,IG-40,0.16
+ChildBirthSize: Small,IG-40,0.24
+ChildBirthSize: Unknown,IG-40,0.24
+ChildHeight: 50-75cm,IG-40,0.96
+ChildHeight: 75-100cm,IG-40,0.22
+ChildWeight: 6-9.9kg,IG-40,1
+ChildWeight: 10-14.9kg,IG-40,0.86
+ChildWeight: 15-19.9kg,IG-40,0.96
+ChildWeight: 1-5.9kg,IG-40,0.28
+BirthOrder: 3-5,IG-40,0.16
+BirthOrder: 6+,IG-40,0.28
+MaternalAge: 15-19,IG-40,0.3
+MaternalAge: 20-24,IG-40,0.24
+MaternalAge: 25-29,IG-40,0.28
+MaternalAge: 30-34,IG-40,0.2
+MaternalAge: 35-39,IG-40,0.22
+MaternalAge: 40-44,IG-40,0.32
+PopulationSize,Average,0.095
+AnnualPrecipitation,Average,0.735
+DiurnalSurfaceTemperature,Average,0.32
+DiurnalTemperatureRange,Average,0.135
+VegetationIndex,Average,0.265
+HumanFootprint,Average,0.15
+GrossCellProduction,Average,0.205
+GrowthSeasonLength,Average,0.395
+Irrigation,Average,0.115
+ITNCoverage,Average,1
+LandSurfaceTemperature,Average,0.435
+MalariaPrevalence,Average,0.225
+MeanTemperature,Average,0.34
+NightlightsComposite,Average,0.13
+ProximityToWater,Average,0.24
+Residence:Rural,Average,0.12
+ToiletType: Improved,Average,0.055
+HIV Status: Positive,Average,0.16
+HouseholdAmenities: Yes,Average,0.19
+Transportation,Average,0.12
+FloorType: Dirt,Average,0.08
+HouseholdHead: Female,Average,0.1
+Breastfeeding,Average,0.09
+Diet: Starch/Legume,Average,0.065
+Diet: Meat/Fish,Average,0.08
+Diet: Fruit,Average,0.085
+Diet: Diary,Average,0.05
+Diet: Vegetables,Average,0.09
+MaternalAnemia,Average,0.91
+ChildGender: Female,Average,0.055
+ChildIntestinalParasoteDrugs,Average,0.065
+IronSupplementDuringPregnancy,Average,0.09
+ChildAge: 6-11months,Average,0.54
+ChildAge: 12-23months,Average,0.585
+ChildAge: 24-35months,Average,0.03
+ChildAge: 36-47months,Average,0.15
+ChildAge: 0-5months,Average,0.09
+Region: Tigray,Average,0.095
+Region: Afar,Average,0.265
+Region: Amhara,Average,0.535
+Region: Oromia,Average,0.085
+Region: Somali,Average,0.73
+Region: Benishangul,Average,0.48
+Region: SNNPR,Average,0.095
+Region: Gambela,Average,0.07
+Region: Harari,Average,0.085
+Region: AddisAdaba,Average,0.105
+MaternalEducation: Primary,Average,0.1
+MaternalEducation: Secondary,Average,0.095
+MaternalEducation: Highschool+,Average,0.085
+PaternalEducation: Primary,Average,0.055
+PaternalEducation: Secondary,Average,0.085
+PaternalEducation: Highschool+,Average,0.055
+MaternalOccupation: Agriculture,Average,0.17
+MaternalOccupation:NotWorking,Average,0.6
+PaternalOccupation: Agriculture,Average,0.07
+PatrnalOccupation: NotWorking,Average,0.115
+Watersource:Piped,Average,0.08
+Watersource:Improved,Average,0.065
+TravelTimeToWater:<30min,Average,0.065
+TravelTimeToWater:>30min,Average,0.14
+Religion: Orthordox,Average,0.72
+Religion: Protestant,Average,0.08
+Religion: Muslim,Average,0.83
+FamilySize: 5-9,Average,0.085
+FamilySize: 10+,Average,0.075
+ListeningRadio: Infrequent,Average,0.07
+ListeningRadio: Sometimes,Average,0.115
+WatchingTV: Infrequent,Average,0.09
+WatchingTV: Sometimes,Average,0.135
+ReadingNews: Infrequent,Average,0.145
+ReadingNews: Sometimes,Average,0.09
+WealthIndex: Poorest,Average,0.745
+WealthIndex: Poorer,Average,0.06
+WealthIndex: Middle,Average,0.08
+WealthIndex: Richer,Average,0.145
+ChildBirthSize: Average,Average,0.045
+ChildBirthSize: Small,Average,0.37
+ChildBirthSize: Unknown,Average,0.075
+ChildHeight: 50-75cm,Average,0.7
+ChildHeight: 75-100cm,Average,0.06
+ChildWeight: 6-9.9kg,Average,1
+ChildWeight: 10-14.9kg,Average,0.345
+ChildWeight: 15-19.9kg,Average,0.815
+ChildWeight: 1-5.9kg,Average,0.215
+BirthOrder: 3-5,Average,0.045
+BirthOrder: 6+,Average,0.08
+MaternalAge: 15-19,Average,0.21
+MaternalAge: 20-24,Average,0.07
+MaternalAge: 25-29,Average,0.095
+MaternalAge: 30-34,Average,0.06
+MaternalAge: 35-39,Average,0.08
+MaternalAge: 40-44,Average,0.305

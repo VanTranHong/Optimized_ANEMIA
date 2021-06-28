@@ -1,0 +1,236 @@
+﻿Feature,Feature Selection,Probability
+PopulationSize,MRMR,0
+AnnualPrecipitation,MRMR,0
+DiurnalSurfaceTemperature,MRMR,0
+DiurnalTemperatureRange,MRMR,0
+VegetationIndex,MRMR,0
+HumanFootprint,MRMR,0
+GrossCellProduction,MRMR,0
+GrowthSeasonLength,MRMR,0
+Irrigation,MRMR,0
+ITNCoverage,MRMR,1
+LandSurfaceTemperature,MRMR,0
+MalariaPrevalence,MRMR,0
+MeanTemperature,MRMR,0
+NightlightsComposite,MRMR,0
+ProximityToWater,MRMR,0
+Residence:Rural,MRMR,0
+ToiletType: Improved,MRMR,0
+HIV Status: Positive,MRMR,0.4
+HouseholdAmenities: Yes,MRMR,0
+Transportation,MRMR,0
+FloorType: Dirt,MRMR,0
+HouseholdHead: Female,MRMR,0
+Breastfeeding,MRMR,0
+Diet: Starch/Legume,MRMR,0
+Diet: Meat/Fish,MRMR,0
+Diet: Fruit,MRMR,0
+Diet: Diary,MRMR,0
+Diet: Vegetables,MRMR,0
+MaternalAnemia,MRMR,1
+ChildGender: Female,MRMR,0
+PopulationSize,CFS,0
+AnnualPrecipitation,CFS,1
+DiurnalSurfaceTemperature,CFS,0
+DiurnalTemperatureRange,CFS,0
+VegetationIndex,CFS,0
+HumanFootprint,CFS,0
+GrossCellProduction,CFS,0
+GrowthSeasonLength,CFS,0
+Irrigation,CFS,0.02
+ITNCoverage,CFS,1
+LandSurfaceTemperature,CFS,0.02
+MalariaPrevalence,CFS,0
+MeanTemperature,CFS,0
+NightlightsComposite,CFS,0.02
+ProximityToWater,CFS,0
+Residence:Rural,CFS,0
+ToiletType: Improved,CFS,0
+HIV Status: Positive,CFS,0
+HouseholdAmenities: Yes,CFS,0.2
+Transportation,CFS,0
+FloorType: Dirt,CFS,0
+HouseholdHead: Female,CFS,0
+Breastfeeding,CFS,0
+Diet: Starch/Legume,CFS,0
+Diet: Meat/Fish,CFS,0
+Diet: Fruit,CFS,0
+Diet: Diary,CFS,0
+Diet: Vegetables,CFS,0
+MaternalAnemia,CFS,1
+ChildGender: Female,CFS,0
+PopulationSize,IG-20,0.08
+AnnualPrecipitation,IG-20,0.96
+DiurnalSurfaceTemperature,IG-20,0.46
+DiurnalTemperatureRange,IG-20,0.16
+VegetationIndex,IG-20,0.3
+HumanFootprint,IG-20,0.16
+GrossCellProduction,IG-20,0.26
+GrowthSeasonLength,IG-20,0.64
+Irrigation,IG-20,0.06
+ITNCoverage,IG-20,1
+LandSurfaceTemperature,IG-20,0.78
+MalariaPrevalence,IG-20,0.2
+MeanTemperature,IG-20,0.54
+NightlightsComposite,IG-20,0.16
+ProximityToWater,IG-20,0.32
+Residence:Rural,IG-20,0.12
+ToiletType: Improved,IG-20,0.04
+HIV Status: Positive,IG-20,0.04
+HouseholdAmenities: Yes,IG-20,0.08
+Transportation,IG-20,0.12
+FloorType: Dirt,IG-20,0.04
+HouseholdHead: Female,IG-20,0.08
+Breastfeeding,IG-20,0.06
+Diet: Starch/Legume,IG-20,0.04
+Diet: Meat/Fish,IG-20,0.08
+Diet: Fruit,IG-20,0.08
+Diet: Diary,IG-20,0.04
+Diet: Vegetables,IG-20,0.08
+MaternalAnemia,IG-20,0.72
+ChildGender: Female,IG-20,0.06
+PopulationSize,IG-40,0.3
+AnnualPrecipitation,IG-40,0.98
+DiurnalSurfaceTemperature,IG-40,0.82
+DiurnalTemperatureRange,IG-40,0.38
+VegetationIndex,IG-40,0.76
+HumanFootprint,IG-40,0.44
+GrossCellProduction,IG-40,0.56
+GrowthSeasonLength,IG-40,0.94
+Irrigation,IG-40,0.38
+ITNCoverage,IG-40,1
+LandSurfaceTemperature,IG-40,0.94
+MalariaPrevalence,IG-40,0.7
+MeanTemperature,IG-40,0.82
+NightlightsComposite,IG-40,0.34
+ProximityToWater,IG-40,0.64
+Residence:Rural,IG-40,0.36
+ToiletType: Improved,IG-40,0.18
+HIV Status: Positive,IG-40,0.2
+HouseholdAmenities: Yes,IG-40,0.48
+Transportation,IG-40,0.36
+FloorType: Dirt,IG-40,0.28
+HouseholdHead: Female,IG-40,0.32
+Breastfeeding,IG-40,0.3
+Diet: Starch/Legume,IG-40,0.22
+Diet: Meat/Fish,IG-40,0.24
+Diet: Fruit,IG-40,0.26
+Diet: Diary,IG-40,0.16
+Diet: Vegetables,IG-40,0.28
+MaternalAnemia,IG-40,0.92
+ChildGender: Female,IG-40,0.16
+PopulationSize,Average,0.095
+AnnualPrecipitation,Average,0.735
+DiurnalSurfaceTemperature,Average,0.32
+DiurnalTemperatureRange,Average,0.135
+VegetationIndex,Average,0.265
+HumanFootprint,Average,0.15
+GrossCellProduction,Average,0.205
+GrowthSeasonLength,Average,0.395
+Irrigation,Average,0.115
+ITNCoverage,Average,1
+LandSurfaceTemperature,Average,0.435
+MalariaPrevalence,Average,0.225
+MeanTemperature,Average,0.34
+NightlightsComposite,Average,0.13
+ProximityToWater,Average,0.24
+Residence:Rural,Average,0.12
+ToiletType: Improved,Average,0.055
+HIV Status: Positive,Average,0.16
+HouseholdAmenities: Yes,Average,0.19
+Transportation,Average,0.12
+FloorType: Dirt,Average,0.08
+HouseholdHead: Female,Average,0.1
+Breastfeeding,Average,0.09
+Diet: Starch/Legume,Average,0.065
+Diet: Meat/Fish,Average,0.08
+Diet: Fruit,Average,0.085
+Diet: Diary,Average,0.05
+Diet: Vegetables,Average,0.09
+MaternalAnemia,Average,0.91
+ChildGender: Female,Average,0.055
+ChildIntestinalParasoteDrugs,MRMR,0
+IronSupplementDuringPregnancy,MRMR,0
+ChildAge: 6-11months,MRMR,0.02
+ChildAge: 12-23months,MRMR,0
+ChildAge: 24-35months,MRMR,0
+ChildAge: 36-47months,MRMR,0
+ChildAge: 0-5months,MRMR,0.24
+Region: Tigray,MRMR,0
+Region: Afar,MRMR,0
+Region: Amhara,MRMR,0
+Region: Oromia,MRMR,0
+Region: Somali,MRMR,0
+Region: Benishangul,MRMR,0
+Region: SNNPR,MRMR,0
+Region: Gambela,MRMR,0
+Region: Harari,MRMR,0
+Region: AddisAdaba,MRMR,0
+ChildIntestinalParasoteDrugs,CFS,0
+IronSupplementDuringPregnancy,CFS,0
+ChildAge: 6-11months,CFS,1
+ChildAge: 12-23months,CFS,1
+ChildAge: 24-35months,CFS,0
+ChildAge: 36-47months,CFS,0
+ChildAge: 0-5months,CFS,0
+Region: Tigray,CFS,0
+Region: Afar,CFS,0.38
+Region: Amhara,CFS,1
+Region: Oromia,CFS,0
+Region: Somali,CFS,1
+Region: Benishangul,CFS,1
+Region: SNNPR,CFS,0
+Region: Gambela,CFS,0
+Region: Harari,CFS,0
+Region: AddisAdaba,CFS,0
+ChildIntestinalParasoteDrugs,IG-20,0.06
+IronSupplementDuringPregnancy,IG-20,0.04
+ChildAge: 6-11months,IG-20,0.38
+ChildAge: 12-23months,IG-20,0.5
+ChildAge: 24-35months,IG-20,0.02
+ChildAge: 36-47months,IG-20,0.16
+ChildAge: 0-5months,IG-20,0
+Region: Tigray,IG-20,0.1
+Region: Afar,IG-20,0.22
+Region: Amhara,IG-20,0.4
+Region: Oromia,IG-20,0.08
+Region: Somali,IG-20,0.92
+Region: Benishangul,IG-20,0.22
+Region: SNNPR,IG-20,0.06
+Region: Gambela,IG-20,0.06
+Region: Harari,IG-20,0.08
+Region: AddisAdaba,IG-20,0.06
+ChildIntestinalParasoteDrugs,IG-40,0.2
+IronSupplementDuringPregnancy,IG-40,0.32
+ChildAge: 6-11months,IG-40,0.76
+ChildAge: 12-23months,IG-40,0.84
+ChildAge: 24-35months,IG-40,0.1
+ChildAge: 36-47months,IG-40,0.44
+ChildAge: 0-5months,IG-40,0.12
+Region: Tigray,IG-40,0.28
+Region: Afar,IG-40,0.46
+Region: Amhara,IG-40,0.74
+Region: Oromia,IG-40,0.26
+Region: Somali,IG-40,1
+Region: Benishangul,IG-40,0.7
+Region: SNNPR,IG-40,0.32
+Region: Gambela,IG-40,0.22
+Region: Harari,IG-40,0.26
+Region: AddisAdaba,IG-40,0.36
+ChildIntestinalParasoteDrugs,Average,0.065
+IronSupplementDuringPregnancy,Average,0.09
+ChildAge: 6-11months,Average,0.54
+ChildAge: 12-23months,Average,0.585
+ChildAge: 24-35months,Average,0.03
+ChildAge: 36-47months,Average,0.15
+ChildAge: 0-5months,Average,0.09
+Region: Tigray,Average,0.095
+Region: Afar,Average,0.265
+Region: Amhara,Average,0.535
+Region: Oromia,Average,0.085
+Region: Somali,Average,0.73
+Region: Benishangul,Average,0.48
+Region: SNNPR,Average,0.095
+Region: Gambela,Average,0.07
+Region: Harari,Average,0.085
+Region: AddisAdaba,Average,0.105

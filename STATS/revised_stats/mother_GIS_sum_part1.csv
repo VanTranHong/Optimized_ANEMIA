@@ -1,0 +1,196 @@
+﻿Feature,Feature Selection,Probability
+PopulationSize,MRMR,0
+AnnualPrecipitation,MRMR,0
+DiurnalSurfaceTemperature,MRMR,0
+DiurnalTemperatureRange,MRMR,0
+VegetationIndex,MRMR,0
+HumanFootprint,MRMR,0
+GrossCellProduction,MRMR,0
+GrowthSeasonLength,MRMR,0
+Irrigation,MRMR,0
+ITNCoverage,MRMR,0
+LandSurfaceTemperature,MRMR,0.04
+MalariaPrevalence,MRMR,0
+MeanTemperature,MRMR,0
+NightlightsComposite,MRMR,0
+ProximityToWater,MRMR,0
+Residence: Rural,MRMR,0.96
+ToiletType: Improved,MRMR,0
+HIV Status: Positive,MRMR,0
+HouseholdAmenities: Yes,MRMR,0
+Transportation,MRMR,0
+FloorType: Dirt,MRMR,0
+HouseholdHead: Female,MRMR,0
+Breastfeeding,MRMR,0
+Pregnant,MRMR,0.8
+MenstruatedInLast6Weeks,MRMR,0
+Married,MRMR,0
+IronSupplementedDuringPregnancy,MRMR,0
+TravelTimeToWater:<30min,MRMR,0
+TravelTimeToWater:>30min,MRMR,0
+MaternalOccupation: Agriculture,MRMR,0
+MaternalOccupation:NotWorking,MRMR,0
+PaternalOccupation: Agriculture,MRMR,0
+PatrnalOccupation: NotWorking,MRMR,0
+Religion: Orthordox,MRMR,0.04
+Religion: Protestant,MRMR,0
+Religion: Muslim,MRMR,0
+FamilySize: 5-9,MRMR,0.04
+FamilySize: 10+,MRMR,0.16
+ListeningRadio: Infrequent,MRMR,0
+PopulationSize,CFS,0
+AnnualPrecipitation,CFS,0.06
+DiurnalSurfaceTemperature,CFS,0
+DiurnalTemperatureRange,CFS,0
+VegetationIndex,CFS,0
+HumanFootprint,CFS,0
+GrossCellProduction,CFS,0
+GrowthSeasonLength,CFS,0
+Irrigation,CFS,0
+ITNCoverage,CFS,1
+LandSurfaceTemperature,CFS,1
+MalariaPrevalence,CFS,0.3
+MeanTemperature,CFS,0
+NightlightsComposite,CFS,0
+ProximityToWater,CFS,0
+Residence: Rural,CFS,0
+ToiletType: Improved,CFS,0
+HIV Status: Positive,CFS,0
+HouseholdAmenities: Yes,CFS,1
+Transportation,CFS,0
+FloorType: Dirt,CFS,0
+HouseholdHead: Female,CFS,0
+Breastfeeding,CFS,0
+Pregnant,CFS,0
+MenstruatedInLast6Weeks,CFS,0
+Married,CFS,0.2
+IronSupplementedDuringPregnancy,CFS,0
+TravelTimeToWater:<30min,CFS,0
+TravelTimeToWater:>30min,CFS,0
+MaternalOccupation: Agriculture,CFS,0
+MaternalOccupation:NotWorking,CFS,0.08
+PaternalOccupation: Agriculture,CFS,0
+PatrnalOccupation: NotWorking,CFS,0
+Religion: Orthordox,CFS,1
+Religion: Protestant,CFS,0
+Religion: Muslim,CFS,1
+FamilySize: 5-9,CFS,0
+FamilySize: 10+,CFS,0
+ListeningRadio: Infrequent,CFS,0
+PopulationSize,IG-20,0.32
+AnnualPrecipitation,IG-20,0.92
+DiurnalSurfaceTemperature,IG-20,0.94
+DiurnalTemperatureRange,IG-20,0.1
+VegetationIndex,IG-20,0.34
+HumanFootprint,IG-20,0.84
+GrossCellProduction,IG-20,0.36
+GrowthSeasonLength,IG-20,0.96
+Irrigation,IG-20,0.14
+ITNCoverage,IG-20,1
+LandSurfaceTemperature,IG-20,1
+MalariaPrevalence,IG-20,0.76
+MeanTemperature,IG-20,0.96
+NightlightsComposite,IG-20,0.6
+ProximityToWater,IG-20,0.7
+Residence: Rural,IG-20,0.5
+ToiletType: Improved,IG-20,0.14
+HIV Status: Positive,IG-20,0
+HouseholdAmenities: Yes,IG-20,0.68
+Transportation,IG-20,0.06
+FloorType: Dirt,IG-20,0.36
+HouseholdHead: Female,IG-20,0.02
+Breastfeeding,IG-20,0.1
+Pregnant,IG-20,0.02
+MenstruatedInLast6Weeks,IG-20,0.08
+Married,IG-20,0.16
+IronSupplementedDuringPregnancy,IG-20,0.16
+TravelTimeToWater:<30min,IG-20,0.02
+TravelTimeToWater:>30min,IG-20,0.12
+MaternalOccupation: Agriculture,IG-20,0.02
+MaternalOccupation:NotWorking,IG-20,0.32
+PaternalOccupation: Agriculture,IG-20,0.08
+PatrnalOccupation: NotWorking,IG-20,0.12
+Religion: Orthordox,IG-20,1
+Religion: Protestant,IG-20,0.04
+Religion: Muslim,IG-20,1
+FamilySize: 5-9,IG-20,0.04
+FamilySize: 10+,IG-20,0.04
+ListeningRadio: Infrequent,IG-20,0.06
+PopulationSize,IG-40,0.8
+AnnualPrecipitation,IG-40,1
+DiurnalSurfaceTemperature,IG-40,1
+DiurnalTemperatureRange,IG-40,0.48
+VegetationIndex,IG-40,0.68
+HumanFootprint,IG-40,1
+GrossCellProduction,IG-40,0.84
+GrowthSeasonLength,IG-40,1
+Irrigation,IG-40,0.52
+ITNCoverage,IG-40,1
+LandSurfaceTemperature,IG-40,1
+MalariaPrevalence,IG-40,0.96
+MeanTemperature,IG-40,0.98
+NightlightsComposite,IG-40,0.88
+ProximityToWater,IG-40,0.92
+Residence: Rural,IG-40,0.8
+ToiletType: Improved,IG-40,0.46
+HIV Status: Positive,IG-40,0.1
+HouseholdAmenities: Yes,IG-40,0.94
+Transportation,IG-40,0.26
+FloorType: Dirt,IG-40,0.8
+HouseholdHead: Female,IG-40,0.18
+Breastfeeding,IG-40,0.48
+Pregnant,IG-40,0.38
+MenstruatedInLast6Weeks,IG-40,0.44
+Married,IG-40,0.58
+IronSupplementedDuringPregnancy,IG-40,0.56
+TravelTimeToWater:<30min,IG-40,0.22
+TravelTimeToWater:>30min,IG-40,0.5
+MaternalOccupation: Agriculture,IG-40,0.22
+MaternalOccupation:NotWorking,IG-40,0.7
+PaternalOccupation: Agriculture,IG-40,0.38
+PatrnalOccupation: NotWorking,IG-40,0.44
+Religion: Orthordox,IG-40,1
+Religion: Protestant,IG-40,0.26
+Religion: Muslim,IG-40,1
+FamilySize: 5-9,IG-40,0.46
+FamilySize: 10+,IG-40,0.22
+ListeningRadio: Infrequent,IG-40,0.34
+PopulationSize,Average,0.28
+AnnualPrecipitation,Average,0.495
+DiurnalSurfaceTemperature,Average,0.485
+DiurnalTemperatureRange,Average,0.145
+VegetationIndex,Average,0.255
+HumanFootprint,Average,0.46
+GrossCellProduction,Average,0.3
+GrowthSeasonLength,Average,0.49
+Irrigation,Average,0.165
+ITNCoverage,Average,0.75
+LandSurfaceTemperature,Average,0.76
+MalariaPrevalence,Average,0.505
+MeanTemperature,Average,0.485
+NightlightsComposite,Average,0.37
+ProximityToWater,Average,0.405
+Residence: Rural,Average,0.565
+ToiletType: Improved,Average,0.15
+HIV Status: Positive,Average,0.025
+HouseholdAmenities: Yes,Average,0.655
+Transportation,Average,0.08
+FloorType: Dirt,Average,0.29
+HouseholdHead: Female,Average,0.05
+Breastfeeding,Average,0.145
+Pregnant,Average,0.3
+MenstruatedInLast6Weeks,Average,0.13
+Married,Average,0.235
+IronSupplementedDuringPregnancy,Average,0.18
+TravelTimeToWater:<30min,Average,0.06
+TravelTimeToWater:>30min,Average,0.155
+MaternalOccupation: Agriculture,Average,0.06
+MaternalOccupation:NotWorking,Average,0.275
+PaternalOccupation: Agriculture,Average,0.115
+PatrnalOccupation: NotWorking,Average,0.14
+Religion: Orthordox,Average,0.76
+Religion: Protestant,Average,0.075
+Religion: Muslim,Average,0.75
+FamilySize: 5-9,Average,0.135
+FamilySize: 10+,Average,0.105
+ListeningRadio: Infrequent,Average,0.1
