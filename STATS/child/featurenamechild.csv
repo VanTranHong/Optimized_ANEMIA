@@ -1,0 +1,94 @@
+Index,Variable name,Meaning of nominal variable,Meaning of 1,Reference point
+1,All_Population_Count_2015,,,
+2,Annual_Precipitation_2015,,,
+3,Day_Land_Surface_Temp_2015,,,
+4,Diurnal_Temperature_Range_2015,,,
+5,Enhanced_Vegetation_Index_2015,,,
+6,Global_Human_Footprint,,,
+7,Gross_Cell_Production,,,
+8,Growing_Season_Length,,,
+9,Irrigation,,,
+10,ITN_Coverage_2015,,,
+11,Land_Surface_Temperature_2015,,,
+12,Malaria_Prevalence_2015,,,
+13,Mean_Temperature_2015,,,
+14,Nightlights_Composite,,,
+15,Proximity_to_Water,,,
+16,V025,Type of place of residence,1 rural,0 urban
+17,ToiletNew,ToiletRecode,1 improved,0 unimproved
+18,HIV,HIV status,1 yes,0 no
+19,HouseholdAmenities,AnyAmenities,1 yes,0 no
+20,AnyTransportation,AnyTransportation,1 yes,0 no
+21,FloorNew,"FloorNew	0 Built	1 Naturalew",1 = natural/dirt,0 = built/other material
+22,V151,Sex of household head,1 female,0 male
+23,V404,Currently breastfeeding,1 yes,0 no
+24,PotatoesBeansLentils,PotatoesBeansLentils,1 yes,0 no
+25,MeatorFishNew,MeatorFish,1 yes,0 no
+26,AnyFruitNew,AnyFruit,1 yes,0 no
+27,anyDairyNew,CheeseYogEggsNew,1 yes,0 no
+28,AnyVegetables,GreenandOtherVeg,1 yes,0 no
+29,MaternalAnemia,MaternalAnemiaBinary,1 yes,0 no
+30,B4,Sex of child,1 female,0 male
+31,ChildIPdrugs,ChildIPdrugs,1 yes,0 no
+32,M45,"During pregnancy, given or bought iron tablets/syrup",1 yes,0 no
+33,ChildAgeGroups_1.0,ChildAgeGroups,1= 6-11,0 = 48-59
+34,ChildAgeGroups_2.0,,2 = 12-23,
+35,ChildAgeGroups_3.0,,3 = 24-35,
+36,ChildAgeGroups_4.0,,4 = 36-47,
+37,ChildAgeGroups_5.0,,5 = 0-5,
+38,V024_1.0,Region,tigray,0:dire wara
+39,V024_2.0,,afar,
+40,V024_3.0,,amhara,
+41,V024_4.0,,oromia,
+42,V024_5.0,,somali,
+43,V024_6.0,,benishangul,
+44,V024_7.0,,SNNPR,
+45,V024_8.0,,Gambela,
+46,V024_9.0,,Harari,
+47,V024_10.0,,Addis Adaba,
+48,V106_1.0,Highest educational level,primary,no education
+49,V106_2.0,,secondary,
+50,V106_3.0,,higher,
+51,HusbandEducationNew_1.0,HusbandEducationNew,1 = primary,0 = none or don't know
+52,HusbandEducationNew_2.0,,2 = secondary,
+53,HusbandEducationNew_3.0,,3 = higher,
+54,MaternalOccNew_1.0,MaternalOccNew,1 = agriculture,"0 = household, services, sales, others"
+55,MaternalOccNew_2.0,,2 = not working,
+56,HusbandOccNew_1.0,HusbandOccNew,1 = agriculture,"0 = household, services, sales, others"
+57,HusbandOccNew_2.0,,2 = not working,
+58,WaterSourceNew_1.0,WaterSourceNew,1 = piped,0 = unimproved
+59,WaterSourceNew_2.0,,2 = other improved,
+60,TimetoWaterNew_1.0,TimetoWaterNew,1 = <30,0 = on premise
+61,TimetoWaterNew_2.0,,2 = >30,
+62,ReligionRecode_1.0,ReligionRecode,1 = orthodox,0 = others
+63,ReligionRecode_2.0,,2 = protestant,
+64,ReligionRecode_3.0,,3 = muslim,
+65,HouseholdNumGroup_1.0,HouseNumRecode,1 = 5-9,0 = 1-4
+66,HouseholdNumGroup_2.0,,2 = 10+,
+67,V158_1.0,Frequency of watching television,1 = Less than once a week,0 not at all
+68,V158_2.0,,2 = At least once a week,
+69,V159_1.0,Frequency of watching television,1 = Less than once a week,0 not at all
+70,V159_2.0,,2 = At least once a week,
+71,V157_1.0,Frequency of reading newspaper or magazine,1 = Less than once a week,0 not at all
+72,V157_2.0,,2 = At least once a week,
+73,V190_1.0,Wealth index combined,1 = Poorest,0 = Richest
+74,V190_2.0,,2 = Poorer,
+75,V190_3.0,,3 = Middle,
+76,V190_4.0,,4 = Richer,
+77,BirthSizeGrouped_1.0,BirthSizeGrouped,1 = average,0 = large
+78,BirthSizeGrouped_2.0,,2 = small,
+79,BirthSizeGrouped_3.0,,3 = don't know,
+80,HeightNew_1.0,HeightNew,1 = 50.1-74.9,0 = 75-99.9 cm
+81,HeightNew_2.0,,2 = <50cm,
+82,WeightGroupNew_1.0,WeightGroupNew,1 = 6-9.9kg,0 = 20+
+83,WeightGroupNew_2.0,,2 = 10-14.9 kg,
+84,WeightGroupNew_3.0,,3 = 15-19.9 kg,
+85,WeightGroupNew_4.0,,4= 1-5.9 kg,
+86,BirthOrderGrouped_1.0,BirthOrderGrouped,1 = 3-5,0 = 1-2
+87,BirthOrderGrouped_2.0,,2 = 6+,
+88,V013_1.0,Age in 5-year groups,1 = 15-19,0 = 45-49
+89,V013_2.0,,2 = 20-24,
+90,V013_3.0,,3 = 25-29,
+91,V013_4.0,,4 = 30-34,
+92,V013_5.0,,5 = 35-39,
+93,V013_6.0,,6 = 40-44,
