@@ -1,0 +1,354 @@
+pvalues: 		
+                                		
+const               1.051072e-07		
+ChildAgeGroups_1.0  1.488203e-60		
+ChildAgeGroups_2.0  5.376243e-62		
+ChildAgeGroups_3.0  9.304138e-27		
+ChildAgeGroups_4.0  6.385814e-09		
+ChildAgeGroups_5.0  4.690499e-01		
+CI 95%:		
+                                       		
+const               0.704054   0.850530		
+ChildAgeGroups_1.0  3.865355   5.577266		
+ChildAgeGroups_2.0  2.856198   3.781793		
+ChildAgeGroups_3.0  1.834356   2.407379		
+ChildAgeGroups_4.0  1.303492   1.707727		
+ChildAgeGroups_5.0  0.323090  11.629577		
+odds ratio: 		
+                            		
+const               0.773834		
+ChildAgeGroups_1.0  4.643071		
+ChildAgeGroups_2.0  3.286571		
+ChildAgeGroups_3.0  2.101426		
+ChildAgeGroups_4.0  1.491981		
+ChildAgeGroups_5.0  1.938401		
+pvalues: 		
+                       		
+const      2.935947e-16		
+V024_1.0   7.989944e-10		
+V024_2.0   2.880340e-01		
+V024_3.0   4.125752e-20		
+V024_4.0   4.585206e-03		
+V024_5.0   1.375327e-04		
+V024_6.0   6.066021e-19		
+V024_7.0   2.411672e-12		
+V024_8.0   3.746025e-05		
+V024_9.0   8.186855e-02		
+V024_10.0  1.711841e-10		
+CI 95%:		
+                             		
+const      2.083593  3.310270		
+V024_1.0   0.329218  0.563439		
+V024_2.0   0.877514  1.552721		
+V024_3.0   0.213673  0.367703		
+V024_4.0   0.530121  0.890655		
+V024_5.0   1.304430  2.288971		
+V024_6.0   0.214311  0.373860		
+V024_7.0   0.300547  0.508288		
+V024_8.0   0.405235  0.725305		
+V024_9.0   0.550815  1.036099		
+V024_10.0  0.253238  0.482732		
+odds ratio: 		
+                   		
+const      2.626263		
+V024_1.0	0.43069	
+V024_2.0	1.167276	
+V024_3.0	0.2803	
+V024_4.0	0.687135	
+V024_5.0	1.727947	
+V024_6.0	0.283059	
+V024_7.0	0.390851	
+V024_8.0	0.542143	
+V024_9.0	0.755446	
+V024_10.0	0.349637	
+pvalues: 		
+                      		
+const     2.544986e-70		
+V106_1.0	1.27E-04	
+V106_2.0	6.00E-06	
+V106_3.0	2.43E-06	
+CI 95%:		
+                            		
+const     1.579272  1.769265		
+V106_1.0	0.731772	0.903957
+V106_2.0	0.538903	0.783013
+V106_3.0	0.415193	0.695787
+odds ratio: 		
+                  		
+const     1.671571		
+V106_1.0	0.813321	
+V106_2.0	0.649591	
+V106_3.0	0.537481	
+pvalues: 		
+                                     		
+const                    1.923147e-56		
+HusbandEducationNew_1.0	2.21E-04	
+HusbandEducationNew_2.0	6.36E-03	
+HusbandEducationNew_3.0	2.06E-02	
+CI 95%:		
+                                           		
+const                    1.562570  1.772642		
+HusbandEducationNew_1.0	0.745164	0.913741
+HusbandEducationNew_2.0	0.679336	0.938578
+HusbandEducationNew_3.0	0.66684	0.966868
+odds ratio: 		
+                                 		
+const                    1.664295		
+HusbandEducationNew_1.0	0.825159	
+HusbandEducationNew_2.0	0.798505	
+HusbandEducationNew_3.0	0.802961	
+pvalues: 		
+                                		
+const               2.799999e-02		
+MaternalOccNew_1.0	7.87E-01	
+MaternalOccNew_2.0	1.89E-20	
+CI 95%:		
+                                      		
+const               1.011811  1.228358		
+MaternalOccNew_1.0	0.85533	1.12574
+MaternalOccNew_2.0	1.534045	1.929798
+odds ratio: 		
+                            		
+const               1.114839		
+MaternalOccNew_1.0	0.981264	
+MaternalOccNew_2.0	1.720581	
+pvalues: 		
+                               		
+const              8.553873e-27		
+HusbandOccNew_1.0	6.13E-01	
+HusbandOccNew_2.0	1.45E-03	
+CI 95%:		
+                                     		
+const              1.387074  1.605885		
+HusbandOccNew_1.0	0.885876	1.074125
+HusbandOccNew_2.0	1.110596	1.553893
+odds ratio: 		
+                           		
+const              1.492475		
+HusbandOccNew_1.0	0.97547	
+HusbandOccNew_2.0	1.313677	
+pvalues: 		
+                                		
+const               5.457206e-49		
+WaterSourceNew_1.0	2.68E-08	
+WaterSourceNew_2.0	1.37E-03	
+CI 95%:		
+                                      		
+const               1.597959  1.845630		
+WaterSourceNew_1.0	0.575025	0.767256
+WaterSourceNew_2.0	0.772777	0.939936
+odds ratio: 		
+                            		
+const               1.717336		
+WaterSourceNew_1.0	0.664222	
+WaterSourceNew_2.0	0.852268	
+pvalues: 		
+                                		
+const               8.523325e-04		
+TimetoWaterNew_1.0	3.56E-03	
+TimetoWaterNew_2.0	8.80E-08	
+CI 95%:		
+                                      		
+const               1.081348  1.351384		
+TimetoWaterNew_1.0	1.064867	1.378497
+TimetoWaterNew_2.0	1.264285	1.658094
+odds ratio: 		
+                            		
+const               1.208850		
+TimetoWaterNew_1.0	1.211576	
+TimetoWaterNew_2.0	1.447862	
+pvalues: 		
+                            		
+const               0.003978		
+ReligionRecode_1.0	0.00043	
+ReligionRecode_2.0	0.134057	
+ReligionRecode_3.0	0.005082	
+CI 95%:		
+                                      		
+const               1.146304  2.051036		
+ReligionRecode_1.0	0.429825	0.786271
+ReligionRecode_2.0	0.579575	1.075534
+ReligionRecode_3.0	1.13704	2.067713
+odds ratio: 		
+                            		
+const               1.533333		
+ReligionRecode_1.0	0.581342	
+ReligionRecode_2.0	0.789527	
+ReligionRecode_3.0	1.533321	
+pvalues: 		
+                                   		
+const                  1.794557e-15		
+HouseholdNumGroup_1.0	2.13E-01	
+HouseholdNumGroup_2.0	3.23E-02	
+CI 95%:		
+                                         		
+const                  1.306769  1.556610		
+HouseholdNumGroup_1.0	0.962909	1.184487
+HouseholdNumGroup_2.0	1.01891	1.530255
+odds ratio: 		
+                               		
+const                  1.426230		
+HouseholdNumGroup_1.0	1.067967	
+HouseholdNumGroup_2.0	1.248676	
+pvalues: 		
+                      		
+const     9.456922e-76		
+V158_1.0	3.44E-05	
+V158_2.0	5.34E-07	
+CI 95%:		
+                            		
+const     1.551757  1.722956		
+V158_1.0	0.646043	0.855358
+V158_2.0	0.608602	0.804566
+odds ratio: 		
+                  		
+const     1.635117		
+V158_1.0	0.74337	
+V158_2.0	0.699758	
+pvalues: 		
+                      		
+const     1.988133e-77		
+V159_1.0	2.36E-02	
+V159_2.0	6.27E-11	
+CI 95%:		
+                            		
+const     1.542066  1.707444		
+V159_1.0	0.698068	0.974518
+V159_2.0	0.543948	0.720361
+odds ratio: 		
+                  		
+const     1.622649		
+V159_1.0	0.824791	
+V159_2.0	0.62597	
+pvalues: 		
+                      		
+const     1.269949e-74		
+V157_1.0	2.61E-05	
+V157_2.0	2.63E-01	
+CI 95%:		
+                            		
+const     1.479885  1.626011		
+V157_1.0	0.529247	0.79317
+V157_2.0	0.573982	1.163835
+odds ratio: 		
+                  		
+const     1.551228		
+V157_1.0	0.647906	
+V157_2.0	0.817325	
+pvalues: 		
+                      		
+const     1.298021e-01		
+V190_1.0	4.21E-31	
+V190_2.0	1.82E-04	
+V190_3.0	6.09E-01	
+V190_4.0	7.42E-01	
+CI 95%:		
+                            		
+const     0.976595  1.203100		
+V190_1.0	1.910061	2.485136
+V190_2.0	1.14559	1.544635
+V190_3.0	0.891389	1.216853
+V190_4.0	0.87317	1.209592
+odds ratio: 		
+                  		
+const     1.083947		
+V190_1.0	2.178706	
+V190_2.0	1.330232	
+V190_3.0	1.041484	
+V190_4.0	1.027706	
+pvalues: 		
+                                  		
+const                 1.092641e-14		
+BirthSizeGrouped_1.0	6.20E-01	
+BirthSizeGrouped_2.0	1.77E-07	
+BirthSizeGrouped_3.0	1.52E-01	
+CI 95%:		
+                                        		
+const                 1.271161  1.496286		
+BirthSizeGrouped_1.0	0.923248	1.143275
+BirthSizeGrouped_2.0	1.22617	1.566573
+BirthSizeGrouped_3.0	0.436316	1.137119
+odds ratio: 		
+                              		
+const                 1.379137		
+BirthSizeGrouped_1.0	1.027388	
+BirthSizeGrouped_2.0	1.385959	
+BirthSizeGrouped_3.0	0.704374	
+pvalues: 		
+                           		
+const          2.039693e-15		
+HeightNew_1.0	1.13E-86	
+HeightNew_2.0	3.06E-35	
+CI 95%:		
+                                 		
+const          0.516222  0.670738		
+HeightNew_1.0	4.910159	6.974643
+HeightNew_2.0	2.12941	2.829172
+odds ratio: 		
+                       		
+const          0.588430		
+HeightNew_1.0	5.85206	
+HeightNew_2.0	2.454479	
+pvalues: 		
+                            		
+const               0.056335		
+WeightGroupNew_1.0	0.000004	
+WeightGroupNew_2.0	0.020833	
+WeightGroupNew_3.0	0.541295	
+WeightGroupNew_4.0	0.000008	
+CI 95%:		
+                                       		
+const               0.193253   1.022136		
+WeightGroupNew_1.0	3.104778	16.576777
+WeightGroupNew_2.0	1.161317	6.169595
+WeightGroupNew_3.0	0.559014	3.029029
+WeightGroupNew_4.0	3.721438	28.978111
+odds ratio: 		
+                             		
+const                0.444444		
+WeightGroupNew_1.0	7.174065	
+WeightGroupNew_2.0	2.676724	
+WeightGroupNew_3.0	1.301257	
+WeightGroupNew_4.0	10.384615	
+pvalues: 		
+                                   		
+const                  4.893125e-15		
+BirthOrderGrouped_1.0	5.98E-03	
+BirthOrderGrouped_2.0	1.49E-04	
+CI 95%:		
+                                         		
+const                  1.251395  1.453573		
+BirthOrderGrouped_1.0	1.042983	1.285642
+BirthOrderGrouped_2.0	1.116906	1.414927
+odds ratio: 		
+                               		
+const                  1.348701		
+BirthOrderGrouped_1.0	1.157973	
+BirthOrderGrouped_2.0	1.257116	
+pvalues: 		
+                      		
+const     3.030972e-01		
+V013_1.0	5.97E-08	
+V013_2.0	2.35E-05	
+V013_3.0	1.48E-04	
+V013_4.0	7.22E-04	
+V013_5.0	8.32E-03	
+V013_6.0	1.32E-01	
+CI 95%:		
+                            		
+const     0.621386  1.159544		
+V013_1.0	2.127893	5.00628
+V013_2.0	1.463167	2.824115
+V013_3.0	1.352781	2.579726
+V013_4.0	1.26661	2.431059
+V013_5.0	1.121692	2.177019
+V013_6.0	0.92083	1.8827
+odds ratio: 		
+                  		
+const     0.848837		
+V013_1.0	3.263867	
+V013_2.0	2.032769	
+V013_3.0	1.868102	
+V013_4.0	1.754766	
+V013_5.0	1.562672	
+V013_6.0	1.31668	
